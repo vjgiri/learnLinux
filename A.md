@@ -1,2 +1,2 @@
 ### Default Linux Command Prompt
-![[vjgirivj.png]]
+![[about explanation of first concept](vjgirivj.png)
