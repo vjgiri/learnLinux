@@ -1,2 +1,2 @@
 ### Default Linux Command Prompt
-![vjgiri@vjgiri.png]
+![[vjgiri@vjgiri.png]]
